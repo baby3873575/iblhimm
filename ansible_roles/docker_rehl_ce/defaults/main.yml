@@ -1,0 +1,5 @@
+---
+mysplunk:
+  image: myrepo/testrepo
+  tag: ansible
+  password: mypaaaaassss
